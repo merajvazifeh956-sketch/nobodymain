@@ -3,6 +3,5 @@ vless://c6fa29a8-408a-4d0b-9f1a-6febdb24d239@altaria.proxy.rlwy.net:21372?encryp
 vless://c6fa29a8-408a-4d0b-9f1a-6febdb24d239@altaria.proxy.rlwy.net:30560?encryption=none&fp=edge&pbk=QFT-A9E6zdEZ3gkM7TVwyGCrdoc9Cnc_wmViioKC6g0&security=reality&sid=cdc2cb6e4b&sni=play.googleapis.com&spx=%2FsyeVs9u6bSpAXQS&type=tcp#Iran-IT-%F0%9F%87%B3%F0%9F%87%B12-kevdj9p9hg
 
 
-vless://c6fa29a8-408a-4d0b-9f1a-6febdb24d239@metro.proxy.rlwy.net:30539?encryption=none&fp=chrome&pbk=QFT-A9E6zdEZ3gkM7TVwyGCrdoc9Cnc_wmViioKC6g0&security=reality&sid=3803e0f864392bb4&sni=aparat.com&spx=%2FpaaYMCpwS5RhfoA&type=tcp#Iran-IT-%F0%9F%87%B3%F0%9F%87%B1-kevdj9p9hg
-
-vless://c6fa29a8-408a-4d0b-9f1a-6febdb24d239@hayabusa.proxy.rlwy.net:50650?encryption=none&fp=chrome&pbk=QFT-A9E6zdEZ3gkM7TVwyGCrdoc9Cnc_wmViioKC6g0&security=reality&sid=df&sni=aparat.com&spx=%2FmjweYHhiMw4RG33&type=tcp#Iran-IT-%F0%9F%87%B3%F0%9F%87%B12-kevdj9p9hg
+vless://c6fa29a8-408a-4d0b-9f1a-6febdb24d239@metro.proxy.rlwy.net:30539?encryption=none&host=sg.felato.ir&path=%2F&security=none&type=httpupgrade#Iran-IT-%F0%9F%87%B3%F0%9F%87%B1-kevdj9p9hg
+vless://c6fa29a8-408a-4d0b-9f1a-6febdb24d239@reailwaypanwl-production.up.railway.app:443?encryption=none&host=sg.felato.ir&path=%2F&security=none&type=httpupgrade#Iran-IT-%F0%9F%87%B3%F0%9F%87%B12-kevdj9p9hg
