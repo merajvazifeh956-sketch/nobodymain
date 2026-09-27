@@ -1,1 +1,1 @@
-vless://96294ba5-2de7-467c-e02c-9558451d8143@84e6cbb5-89c9-49e9-bea5-97f02ef5134b.fly.dev:443?encryption=none&security=none&type=tcp&headerType=none#pcpc3ip9
+vless://eae0bf6d-96e0-12cb-e7e2-4a5ced2c8b43@84e6cbb5-89c9-49e9-bea5-97f02ef5134b.fly.dev:443?encryption=none&security=tls&sni=84e6cbb5-89c9-49e9-bea5-97f02ef5134b.fly.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=84e6cbb5-89c9-49e9-bea5-97f02ef5134b.fly.dev&path=%2Fws%2Feae0bf6d-96e0-12cb-e7e2-4a5ced2c8b43#vrsusb31rxs%20%C2%B7%20VLESS-WS
